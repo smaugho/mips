@@ -78,8 +78,16 @@ Team Name: The name of the onboarded domain team.
 	- **Date Added:** 2019-10-7 [Poll: Ratify the Interim Oracle Team Mandate](https://vote.makerdao.com/polling-proposal/qmas1bqrquo2h41qv4fa8hpek9ukb7dlwtpkpn62r5hhmq)
 
 **2. Smart Contracts Domain Teams:**
+- **Team Name:** SC Team 1
+	- **Sub-proposal Number (MIP7c3-SP):** [MIP7c3-SP4](https://github.com/makerdao/mips/blob/master/MIP7/MIP7c3-Subproposals/MIP7c3-SP4.md)
+	- **Domain:** Smart Contracts
+	- **Date Added:** 2020-09-30 [Executive Vote Approve September 2020 Governance Cycle Bundle - September 28, 2020](https://mkrgov.science/executive/0x85652b397a5e7b5d92e7c0f4158d2b1c6761f280)
 
 **3. Risk Domain Teams:**
+- **Team Name:** Risk Team 1
+	- **Sub-proposal Number (MIP7c3-SP):** [MIP7c3-SP3](https://github.com/makerdao/mips/blob/master/MIP7/MIP7c3-Subproposals/MIP7c3-SP3.md)
+	- **Domain:** Risk
+	- **Date Added:** 2020-09-30 [Executive Vote Approve September 2020 Governance Cycle Bundle - September 28, 2020](https://mkrgov.science/executive/0x85652b397a5e7b5d92e7c0f4158d2b1c6761f280)
 
 **4. Legal Domain Teams:**
 
