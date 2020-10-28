@@ -7,9 +7,9 @@ Title: Protocol DAI Transfer
 Author(s): @LongForWisdom, @jtathmann
 Contributors: 
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-08-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: MIP0
 Replaces: N/A
 ```
