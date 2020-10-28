@@ -7,9 +7,9 @@ Title: Domain Structure and Roles
 Author(s): @LongForWisdom
 Contributors: N/A
 Type: General
-Status: Formal Submission (FS)
-Date Proposed: 2020/09/07
-Date Ratified: n/a
+Status: Accepted
+Date Proposed: 2020-09-07
+Date Ratified: 2020-1027
 Dependencies: n/a
 Replaces: n/a
 ```
