@@ -7,9 +7,9 @@ Title: Real World Assets - Off-Chain Asset Backed Lender
 Author(s):  Matthew V Rabinowitz (@mrabino1 or mr@6s.capital)
 Contributors: Lev Livnev (@equivrel) & Christopher Mooney (@cmooney)
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: MIP13c3-SP4 (Declaration of Intent - Off-Chain Asset Backed Lender to Onboard Real World Assets as Collateral for a DAI loan)
 Replaces: n/a
 License: n/a
