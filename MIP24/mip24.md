@@ -8,9 +8,9 @@ Title: Emergency Response
 Author(s): @Davidutro, @jtathmann 
 Contributors:
 Type: General
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-11-24
 Dependencies:
 Replaces: MIP 5
 ```
