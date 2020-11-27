@@ -5,9 +5,9 @@
 MIP28c7-SP#: 1
 Author(s): @AmyJung
 Contributors: 
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-10-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-11-24
 ---
 Domain Role: Operational Support Domain Facilitator
 Proposed Applicant: @AmyJung
