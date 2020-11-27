@@ -5,9 +5,9 @@
 MIP13c3-SP#: 6
 Author(s): @LongForWisdom
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-10-05
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-11-24
 ---
 Declaration Statement: Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol.
 Declaration to Replace: n/a
